@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Hutchie — Backend-focused developer</title>
+  <desc id="desc">Editorial GitHub profile header for Hutchie with balanced emphasis on Laravel, Django, and Python.</desc>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ff6b5c"/>
+      <stop offset="50%" stop-color="#ff7f72"/>
+      <stop offset="100%" stop-color="#f59e0b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="360" fill="#0d1117"/>
+  <path d="M56 52H1224" stroke="#273142" stroke-width="1"/>
+  <path d="M56 308H1224" stroke="#273142" stroke-width="1"/>
+  <path d="M846 52V308" stroke="#273142" stroke-width="1"/>
+  <path d="M56 214H806" stroke="#1f2937" stroke-width="1" stroke-dasharray="3 9"/>
+  <rect x="56" y="34" width="44" height="4" rx="2" fill="url(#accent)"/>
+  <g font-family="Inter, Segoe UI, Arial, Helvetica, sans-serif">
+    <text x="112" y="38" fill="#98a2b3" font-size="12" letter-spacing="2.8">PROFILE README</text>
+    <text x="1224" y="38" fill="#98a2b3" font-size="12" letter-spacing="2.0" text-anchor="end">XF00889</text>
+
+    <text x="56" y="135" fill="#f8fafc" font-size="92" font-weight="700" letter-spacing="-4">Hutchie</text>
+    <circle cx="458" cy="113" r="7" fill="#ff7f72"/>
+
+    <text x="60" y="180" fill="#d0d5dd" font-size="22" letter-spacing="0.2">Backend-focused web developer building reliable apps with</text>
+    <text x="60" y="211" fill="#f8fafc" font-size="24" font-weight="600">Laravel, Django, and Python</text>
+
+    <text x="60" y="250" fill="#98a2b3" font-size="14" letter-spacing="0.2">Clean architecture · database design · APIs · maintainable systems</text>
+
+    <text x="60" y="278" fill="#98a2b3" font-size="12" letter-spacing="2.2">PHP / LARAVEL</text>
+    <text x="220" y="278" fill="#98a2b3" font-size="12" letter-spacing="2.2">DJANGO / PYTHON</text>
+    <text x="420" y="278" fill="#98a2b3" font-size="12" letter-spacing="2.2">MYSQL / POSTGRESQL</text>
+
+    <text x="884" y="96" fill="#98a2b3" font-size="12" letter-spacing="2.6">WHAT I WORK ON</text>
+    <text x="884" y="135" fill="#f8fafc" font-size="28" font-weight="650">Web apps &amp; internal tools</text>
+    <text x="884" y="167" fill="#d0d5dd" font-size="16">From data modeling and auth flows to</text>
+    <text x="884" y="190" fill="#d0d5dd" font-size="16">backend logic and pragmatic UI delivery.</text>
+
+    <text x="884" y="238" fill="#98a2b3" font-size="12" letter-spacing="2.6">CURRENT STACK</text>
+    <text x="884" y="272" fill="url(#accent)" font-size="20" font-weight="700">Laravel</text>
+    <text x="966" y="272" fill="#f8fafc" font-size="20" font-weight="600">· Django · Python</text>
+
+    <text x="56" y="332" fill="#98a2b3" font-size="11" letter-spacing="2.0">PHILIPPINES</text>
+    <text x="1224" y="332" fill="#98a2b3" font-size="11" letter-spacing="2.0" text-anchor="end">BUILD · SHIP · IMPROVE</text>
+  </g>
+</svg>

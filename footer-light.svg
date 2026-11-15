@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="140" viewBox="0 0 1280 140" role="img" aria-labelledby="title desc">
+  <title id="title">Hutchie footer</title>
+  <desc id="desc">Minimal footer banner for Hutchie's GitHub profile.</desc>
+  <rect width="1280" height="140" fill="#ffffff"/>
+  <path d="M56 36H1224" stroke="#d0d7de" stroke-width="1"/>
+  <path d="M56 104H1224" stroke="#d0d7de" stroke-width="1"/>
+  <circle cx="86" cy="70" r="18" fill="none" stroke="#ef4444" stroke-width="2"/>
+  <text x="86" y="76" text-anchor="middle" font-family="Inter, Segoe UI, Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#0f172a">H</text>
+  <g font-family="Inter, Segoe UI, Arial, Helvetica, sans-serif">
+    <text x="126" y="64" fill="#0f172a" font-size="18" font-weight="600">Hutchie / xf00889</text>
+    <text x="126" y="87" fill="#57606a" font-size="13">Laravel · Django · Python · Building useful software one iteration at a time.</text>
+    <text x="1224" y="64" fill="#57606a" font-size="12" letter-spacing="2.0" text-anchor="end">GITHUB PROFILE</text>
+    <text x="1224" y="87" fill="#57606a" font-size="12" letter-spacing="1.2" text-anchor="end">PORTFOLIO · LINKEDIN · REPOSITORIES</text>
+  </g>
+</svg>
