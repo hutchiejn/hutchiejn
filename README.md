@@ -1,62 +1,48 @@
-<div align="center">
+<!-- xf00889 · GitHub profile -->
 
-<sub><strong>xf00889 / README.md</strong></sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" />
+  <img src="./assets/header-light.svg" width="100%" alt="Hutchie — software developer focused on PHP and Laravel" />
+</picture>
 
-# 👋 Hi there! I'm Hutchie
-### [@xf00889](https://github.com/xf00889) | [Portfolio](https://myportfoliowebsite-rose.vercel.app) | [LinkedIn](https://www.linkedin.com/in/juby-neil-valiao-084b40237/)
+<br>
 
-`Self-Taught Full-Stack & Backend Developer | Laravel • Django • Python • PHP`
+I build web applications with **Laravel and PHP**, mostly the parts you don't see: how data is organized, who can access what, and how a feature behaves when people actually use it.
 
-<br/>
+Self-taught, backend-focused, and comfortable working across the interface when a project needs it.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,laravel,django,js,html,css,tailwind&theme=dark" />
-</p>
+[Portfolio](https://jubyneilvaliao.is-pinoy.dev/) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/juby-neil-valiao-084b40237/) &nbsp; / &nbsp; [Repositories](https://github.com/xf00889?tab=repositories)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap,mysql,postgresql,git,github,vscode,vite&theme=dark" />
-</p>
+<br>
 
-</div>
+### 01 / Selected work
 
----
+**[JudgeIt](https://github.com/xf00889/judgeit)** &nbsp; `Laravel 12` `MySQL` `Tailwind CSS`  
+A judging and tabulation application for pageants, built around configurable criteria and scoring workflows.
 
-<div align="center">
+**[OpenGen](https://github.com/xf00889/laravel_chatbot)** &nbsp; `Laravel` `Blade` `MySQL`  
+An AI chatbot application with account management, conversation history, subscriptions, and payment integration.
 
-<table>
-<tr>
-<td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xf00889&theme=github_dark" />
-</td>
-<td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xf00889&theme=github_dark" />
-</td>
-</tr>
-</table>
+<sub>More work, including projects outside Laravel, is documented on my [portfolio](https://jubyneilvaliao.is-pinoy.dev/#projects).</sub>
 
-</div>
+<br>
 
----
+### 02 / Working stack
 
-<div align="center">
+| Focus | Tools & practices |
+| :--- | :--- |
+| **Backend** | Laravel, PHP, Eloquent, REST APIs, authentication, authorization |
+| **Database** | MySQL, PostgreSQL, migrations, relational data modeling |
+| **Frontend** | Blade, Tailwind CSS, JavaScript, Vite |
+| **Also working with** | Python, Django, Git, GitHub |
 
-### About Me
+<br>
 
-I'm a backend-focused full-stack developer who builds clean, scalable web applications with Laravel and Django.  
-I focus on strong architecture, reliable API development, solid database design, and writing maintainable code that scales with real-world projects.
+### 03 / How I approach a build
 
-<br/>
-
-**Backend:** REST APIs, authentication, database design, and system architecture  
-**Frontend:** Blade templates, responsive UI, TailwindCSS, and modern tooling  
-**Workflow:** Git & GitHub, version control, editor setup, and deployment practice
-
-</div>
+I like starting with the data and the workflow: what the application needs to store, what people need to do, and which rules should be enforced on the server. From there, I work toward an interface that's straightforward to use and code that's straightforward to revisit.
 
 ---
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=xf00889&style=flat-square&color=58A6FF&label=Profile+Views" />
-
-</div>
+<sub>HUTCHIE &nbsp;·&nbsp; PHP / LARAVEL &nbsp;·&nbsp; [GITHUB.COM/XF00889](https://github.com/xf00889)</sub>

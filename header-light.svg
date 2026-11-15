@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="300" viewBox="0 0 1100 300" role="img" aria-labelledby="title desc">
+  <title id="title">Hutchie — Laravel developer</title>
+  <desc id="desc">A clean editorial profile header with Hutchie's name, Laravel development focus, and repository handle.</desc>
+  <rect width="1100" height="300" fill="#F7F7F4"/>
+  <path d="M45 50H1055 M45 245H1055" stroke="#D7D8D3" stroke-width="1"/>
+  <path d="M805 74V224" stroke="#D7D8D3" stroke-width="1"/>
+  <rect x="45" y="37" width="27" height="3" fill="#DC493D"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="83" y="40" fill="#646864" font-size="12" letter-spacing="2.3">DEVELOPER PROFILE</text>
+    <text x="1055" y="40" fill="#646864" font-size="12" letter-spacing="1.6" text-anchor="end">XF00889</text>
+    <text x="42" y="183" fill="#191B1E" font-size="106" font-weight="700" letter-spacing="-7.4">hutchie</text>
+    <circle cx="399" cy="169" r="7.5" fill="#DC493D"/>
+    <text x="47" y="219" fill="#646864" font-size="15" letter-spacing="0.4">Software developer  /  PHP &amp; Laravel</text>
+    <text x="838" y="112" fill="#646864" font-size="12" letter-spacing="2.1">PRIMARY FOCUS</text>
+    <text x="838" y="163" fill="#DC493D" font-size="32" font-weight="700" letter-spacing="-1">Laravel</text>
+    <text x="838" y="191" fill="#191B1E" font-size="16" letter-spacing="0.2">Backend systems</text>
+    <text x="47" y="274" fill="#646864" font-size="11" letter-spacing="1.8">PHILIPPINES</text>
+    <text x="1055" y="274" fill="#646864" font-size="11" letter-spacing="1.8" text-anchor="end">BUILD  /  SHIP  /  MAINTAIN</text>
+  </g>
+</svg>
