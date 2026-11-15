@@ -3,46 +3,55 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" />
-  <img src="./assets/header-light.svg" width="100%" alt="Hutchie — software developer focused on PHP and Laravel" />
+  <img src="./assets/header-light.svg" width="100%" alt="Hutchie — backend-focused developer working with Laravel, Django, and Python" />
 </picture>
 
 <br>
 
-I build web applications with **Laravel and PHP**, mostly the parts you don't see: how data is organized, who can access what, and how a feature behaves when people actually use it.
+I build web applications with a backend-first mindset — designing data structures, building application logic, and shaping interfaces that stay practical as projects grow.
 
-Self-taught, backend-focused, and comfortable working across the interface when a project needs it.
+My strongest stack is **Laravel / PHP**, but I also work comfortably with **Django and Python**, especially when a project calls for clean architecture, reliable APIs, and maintainable systems.
 
-[Portfolio](https://jubyneilvaliao.is-pinoy.dev/) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/juby-neil-valiao-084b40237/) &nbsp; / &nbsp; [Repositories](https://github.com/xf00889?tab=repositories)
-
-<br>
-
-### 01 / Selected work
-
-**[JudgeIt](https://github.com/xf00889/judgeit)** &nbsp; `Laravel 12` `MySQL` `Tailwind CSS`  
-A judging and tabulation application for pageants, built around configurable criteria and scoring workflows.
-
-**[OpenGen](https://github.com/xf00889/laravel_chatbot)** &nbsp; `Laravel` `Blade` `MySQL`  
-An AI chatbot application with account management, conversation history, subscriptions, and payment integration.
-
-<sub>More work, including projects outside Laravel, is documented on my [portfolio](https://jubyneilvaliao.is-pinoy.dev/#projects).</sub>
+<p>
+  <a href="https://jubyneilvaliao.is-pinoy.dev/">Portfolio</a>
+  &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/juby-neil-valiao-084b40237/">LinkedIn</a>
+  &nbsp; / &nbsp;
+  <a href="https://github.com/xf00889?tab=repositories">Repositories</a>
+</p>
 
 <br>
 
-### 02 / Working stack
+### 01 / What I work with
 
-| Focus | Tools & practices |
+| Area | Tools & strengths |
 | :--- | :--- |
-| **Backend** | Laravel, PHP, Eloquent, REST APIs, authentication, authorization |
-| **Database** | MySQL, PostgreSQL, migrations, relational data modeling |
-| **Frontend** | Blade, Tailwind CSS, JavaScript, Vite |
-| **Also working with** | Python, Django, Git, GitHub |
+| **Backend** | Laravel, PHP, Django, Python, REST APIs, authentication, authorization |
+| **Database** | MySQL, PostgreSQL, Eloquent ORM, migrations, relational data modeling |
+| **Frontend** | Blade, Tailwind CSS, JavaScript, HTML, CSS, Vite |
+| **Workflow** | Git, GitHub, debugging, deployment practice, iterative feature development |
+
+<br>
+
+### 02 / What I focus on
+
+- Building **web applications and internal tools** with solid backend structure.
+- Designing systems around **clear workflows, user roles, and maintainable data models**.
+- Writing code that stays understandable as features expand.
+- Delivering interfaces that are simple, usable, and connected to strong backend logic.
 
 <br>
 
 ### 03 / How I approach a build
 
-I like starting with the data and the workflow: what the application needs to store, what people need to do, and which rules should be enforced on the server. From there, I work toward an interface that's straightforward to use and code that's straightforward to revisit.
+I usually start with the system itself: what the application needs to store, who interacts with it, and what rules should be enforced on the server. Once the structure is clear, I work outward into the API, the business logic, and the interface.
 
----
+That approach helps me keep projects readable, scalable, and easier to maintain over time.
 
-<sub>HUTCHIE &nbsp;·&nbsp; PHP / LARAVEL &nbsp;·&nbsp; [GITHUB.COM/XF00889](https://github.com/xf00889)</sub>
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg" />
+  <img src="./assets/footer-light.svg" width="100%" alt="Hutchie footer" />
+</picture>
