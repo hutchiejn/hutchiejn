@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 340" width="1280" height="340" role="img" aria-labelledby="title description">
+      <title id="title">Hutchie · Backend-focused web developer</title>
+      <desc id="description">Open-edge editorial header featuring Laravel, Django, Python and PHP.</desc>
+      <defs><linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#de4d45"/><stop offset="51%" stop-color="#7660bc"/><stop offset="100%" stop-color="#287ca9"/></linearGradient></defs>
+      <path d="M0 17 H1280" stroke="#d0d7de" stroke-width="1"/>
+      <path d="M0 17 H102" stroke="url(#accent)" stroke-width="3"/>
+      <path d="M813 77 V309" stroke="#d0d7de" stroke-width="1"/>
+      <path d="M0 333 H1280" stroke="#d0d7de" stroke-width="1"/>
+      <g font-family="Segoe UI, Arial, Helvetica, sans-serif">
+        <text x="0" y="50" fill="#636f7e" font-size="15" letter-spacing="3" font-weight="600">DEVELOPER PROFILE</text>
+        <text x="1280" y="50" text-anchor="end" fill="#636f7e" font-size="15" letter-spacing="2.1">XF00889</text>
+        <text x="0" y="151" fill="#1f2328" font-size="112" letter-spacing="-6.8" font-weight="750">Hutchie</text>
+        <circle cx="436" cy="126" r="7.5" fill="#de4d45"/>
+        <text x="4" y="192" fill="#364152" font-size="23">Backend-focused web developer</text>
+        <text x="4" y="230" fill="#1f2328" font-size="29" letter-spacing="-.65" font-weight="650">Laravel, Django, Python &amp; PHP</text>
+        <text x="4" y="260" fill="#636f7e" font-size="16">Systems · APIs · data modeling · considered interfaces</text>
+        <g transform="translate(4 276)"><g transform="translate(0 0)">
+          <rect x="0.5" y="0.5" width="127" height="35" rx="11" fill="#ffffff" stroke="#dce2e8"/>
+          <circle cx="22" cy="18" r="11" fill="#de4d45"/>
+          <text x="22" y="22" font-size="13" font-weight="750" fill="#111827" text-anchor="middle">L</text>
+          <text x="41" y="23" font-size="17" font-weight="550" fill="#1f2328">Laravel</text>
+        </g><g transform="translate(139 0)">
+          <rect x="0.5" y="0.5" width="115" height="35" rx="11" fill="#ffffff" stroke="#dce2e8"/>
+          <circle cx="22" cy="18" r="11" fill="#227c60"/>
+          <text x="22" y="22" font-size="13" font-weight="750" fill="#111827" text-anchor="middle">D</text>
+          <text x="41" y="23" font-size="17" font-weight="550" fill="#1f2328">Django</text>
+        </g><g transform="translate(266 0)">
+          <rect x="0.5" y="0.5" width="123" height="35" rx="11" fill="#ffffff" stroke="#dce2e8"/>
+          <circle cx="22" cy="18" r="11" fill="#287ca9"/>
+          <text x="22" y="22" font-size="11" font-weight="750" fill="#111827" text-anchor="middle">Py</text>
+          <text x="41" y="23" font-size="17" font-weight="550" fill="#1f2328">Python</text>
+        </g><g transform="translate(401 0)">
+          <rect x="0.5" y="0.5" width="102" height="35" rx="11" fill="#ffffff" stroke="#dce2e8"/>
+          <circle cx="22" cy="18" r="11" fill="#7660bc"/>
+          <text x="22" y="22" font-size="10" font-weight="750" fill="#111827" text-anchor="middle">PHP</text>
+          <text x="41" y="23" font-size="17" font-weight="550" fill="#1f2328">PHP</text>
+        </g></g>
+
+        <text x="846" y="99" fill="#636f7e" font-size="15" font-weight="600" letter-spacing="2.5">WHAT I BUILD</text>
+        <text x="846" y="147" fill="#1f2328" font-size="34" font-weight="700" letter-spacing="-.6">Web apps &amp;</text>
+        <text x="846" y="186" fill="#1f2328" font-size="34" font-weight="700" letter-spacing="-.6">internal tools.</text>
+        <text x="846" y="228" fill="#364152" font-size="18">From backend architecture</text>
+        <text x="846" y="252" fill="#364152" font-size="18">to practical, usable interfaces.</text>
+        <text x="846" y="302" fill="#de4d45" font-size="17" font-weight="650">Laravel</text>
+        <text x="924" y="302" fill="#636f7e" font-size="17">/</text>
+        <text x="943" y="302" fill="#227c60" font-size="17" font-weight="650">Django</text>
+        <text x="1009" y="302" fill="#636f7e" font-size="17">/</text>
+        <text x="1028" y="302" fill="#287ca9" font-size="17" font-weight="650">Python</text>
+      </g>
+    </svg>

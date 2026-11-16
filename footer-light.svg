@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 112" width="1280" height="112" role="img" aria-labelledby="title description">
+      <title id="title">Hutchie · profile footer</title>
+      <desc id="description">Open-edge footer with GitHub profile handle and development focus.</desc>
+      <defs><linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#de4d45"/><stop offset="50%" stop-color="#7660bc"/><stop offset="100%" stop-color="#287ca9"/></linearGradient></defs>
+      <path d="M0 10 H1280" stroke="#d0d7de"/>
+      <path d="M0 10 H102" stroke="url(#accent)" stroke-width="3"/>
+      <path d="M0 105 H1280" stroke="#d0d7de"/>
+      <g font-family="Segoe UI, Arial, Helvetica, sans-serif">
+        <text x="0" y="65" fill="#1f2328" font-size="27" font-weight="700" letter-spacing="-.5">H.</text>
+        <text x="48" y="59" fill="#1f2328" font-size="18" font-weight="650">Hutchie</text>
+        <text x="48" y="81" fill="#636f7e" font-size="15">Building useful software, one iteration at a time.</text>
+        <text x="1280" y="59" text-anchor="end" fill="#1f2328" font-size="16" font-weight="600">github.com/xf00889</text>
+        <text x="1280" y="81" text-anchor="end" fill="#636f7e" font-size="14" letter-spacing=".9">LARAVEL · DJANGO · PYTHON</text>
+      </g>
+    </svg>
