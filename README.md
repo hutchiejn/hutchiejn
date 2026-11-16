@@ -1,4 +1,12 @@
 <!-- xf00889 · GitHub profile · all assets live in this repository root -->
+<!--
+Brand-mark credits: Laravel, Python, and PHP graphics are vector brand marks.
+Laravel & PHP icon silhouettes adapted from Font Awesome Free 6.7.2 (CC BY 4.0): https://fontawesome.com/license/free
+Python two-color mark sourced from Iconify-compatible Python vector bundled with Gradio.
+Django icon from Simple Icons (CC0 1.0), based on Django's official logo: https://www.djangoproject.com/community/logos/
+Trademarks remain the property of their respective owners. No endorsement implied.
+-->
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./header-dark.svg" />
