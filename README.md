@@ -31,7 +31,7 @@ My strongest stack is **Laravel / PHP**, but I also work with **Django and Pytho
 | **Backend** | Laravel, PHP, Django, Python, REST APIs, authentication, authorization |
 | **Database** | MySQL, PostgreSQL, Eloquent ORM, migrations, relational data modeling |
 | **Frontend** | Blade, Tailwind CSS, JavaScript, HTML, CSS, Vite |
-| **Workflow** | Git, GitHub, debugging, deployment practice, iterative feature development |
+| **Workflow** | SDLC (Agile / Waterfall), Git, GitHub, testing, debugging, deployment |
 
 ## <img src="./n-02.svg" width="62" alt="02" /> What I focus on
 
@@ -42,9 +42,9 @@ My strongest stack is **Laravel / PHP**, but I also work with **Django and Pytho
 
 ## <img src="./n-03.svg" width="62" alt="03" /> How I approach a build
 
-I usually start with the system itself: what the application needs to store, who interacts with it, and what rules should be enforced on the server. Once the structure is clear, I work outward into the API, the business logic, and the interface.
+I follow the **Software Development Life Cycle (SDLC)**, from requirements gathering and planning through system design, development, testing, deployment, and maintenance.
 
-That approach helps me keep projects readable and easier to maintain over time.
+I adapt the approach to the project: **Waterfall** when requirements and milestones are clearly defined, or **Agile** when feedback and evolving needs call for iterative delivery. In either case, I focus on clear documentation, reliable functionality, and code that's practical to maintain.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./footer-dark.svg" />
